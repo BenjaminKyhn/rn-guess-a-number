@@ -3,7 +3,7 @@ import {View, Text, StyleSheet, Button, TextInput, TouchableWithoutFeedback, Key
 import Card from '../components/Card';
 import Colors from '../constants/colors';
 import Input from '../components/Input'
-import NumberContainer from "../components/numberContainer";
+import NumberContainer from "../components/Number-container";
 
 const StartGameScreen = props => {
 
